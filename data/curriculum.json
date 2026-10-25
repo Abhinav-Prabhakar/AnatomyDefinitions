@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-25",
+  "collection": {
+    "id": "anatomy-and-physiology",
+    "name": "Anatomy and Physiology",
+    "tagline": "Anatomy and physiology, in one line.",
+    "topic": "Anatomy and physiology for pre-health and allied-health students",
+    "audience": "Pre-health and allied-health students",
+    "level": "intro",
+    "jurisdiction": "global",
+    "disclaimer": ""
+  },
+  "coverage": {
+    "sections": 1,
+    "subjects": 6,
+    "definitions": 285,
+    "sources": 1
+  },
+  "semesters": [
+    {
+      "id": "core",
+      "label": "Core",
+      "status": "complete",
+      "subjects": [
+        {
+          "id": "cells-and-tissues",
+          "name": "Cells and Tissues",
+          "shortName": "Cells and tissues",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/cells-and-tissues.json",
+          "definitionCount": 45,
+          "unitCount": 4,
+          "coveredUnits": 4,
+          "status": "complete"
+        },
+        {
+          "id": "skeletal-muscular",
+          "name": "Skeletal and Muscular Systems",
+          "shortName": "Skeletal and muscular",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/skeletal-muscular.json",
+          "definitionCount": 50,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "cardiovascular-respiratory",
+          "name": "Cardiovascular and Respiratory Systems",
+          "shortName": "Cardiovascular and respiratory",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/cardiovascular-respiratory.json",
+          "definitionCount": 55,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "nervous-endocrine",
+          "name": "Nervous and Endocrine Systems",
+          "shortName": "Nervous and endocrine",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/nervous-endocrine.json",
+          "definitionCount": 50,
+          "unitCount": 5,
+          "coveredUnits": 5,
+          "status": "complete"
+        },
+        {
+          "id": "digestive-urinary",
+          "name": "Digestive and Urinary Systems",
+          "shortName": "Digestive and urinary",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/digestive-urinary.json",
+          "definitionCount": 45,
+          "unitCount": 4,
+          "coveredUnits": 4,
+          "status": "complete"
+        },
+        {
+          "id": "homeostasis",
+          "name": "Homeostasis",
+          "shortName": "Homeostasis",
+          "code": "",
+          "courseType": "core",
+          "data": "data/subjects/homeostasis.json",
+          "definitionCount": 40,
+          "unitCount": 4,
+          "coveredUnits": 4,
+          "status": "complete"
+        }
+      ]
+    }
+  ]
+}
